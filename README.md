@@ -26,5 +26,5 @@ Focused on building games and learning the fundamentals of game engines, physics
 - Show growth instead of perfection
 
 ## 📫 Contact
-**LinkedIn / Portfolio Coming Soon**
+**LinkedIn / Portfolio Coming Soon** 
 GitHub: Safin-Mulani-409
